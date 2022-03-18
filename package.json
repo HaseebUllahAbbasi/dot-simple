@@ -1,0 +1,23 @@
+{
+  "name": "dot-simple",
+  "version": "1.0.2",
+  "description": "this package Can be used easily.\n it containes these methods\n1. testType\n2. contains",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaseebUllahAbbasi/dot-simple.git"
+  },
+  "keywords": [
+    "dot-simple",
+    "basic"
+  ],
+  "author": "HaseebUllah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaseebUllahAbbasi/dot-simple/issues"
+  },
+  "homepage": "https://github.com/HaseebUllahAbbasi/dot-simple#readme"
+}
